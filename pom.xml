@@ -12,7 +12,7 @@
     <dependency>
       <artifactId>vertx-core</artifactId>
       <groupId>io.vertx</groupId>
-      <version>3.5.0</version>
+      <version>3.9.4</version>
     </dependency>
   </dependencies>
   <build>
